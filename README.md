@@ -1,6 +1,6 @@
-# Repo Name
+# Java Demos
 
-Description of repo purpose
+This contains in class content from Week 1 Java
 
 ## Table of Contents
 
@@ -28,4 +28,4 @@ The [docs](docs/) directory will have all notes and documentation links for the 
 
 ## Installation Instructions
 
-This will contain the information about needed technologies and how to set them up
+Make sure you have the jdk installed for Java 8 and you should be good to go.
